@@ -1,0 +1,41 @@
+.guild_display {
+	padding:5px;
+}
+
+
+span.guild_name {
+	font-weight:bold;
+	font-size:130%;
+}
+
+span.guild_info {
+	font-size:90%;	
+}
+
+.wowguild_char_list td {
+	padding:2px;
+	vertical-align:middle;	
+}
+
+.wowguild_char_list tr.a td {
+	background-color:#f8f8f8;
+}
+
+.wowguild_char_list tr.b td {
+	background-color:#f0f0f0;
+}
+
+
+.wowguild_char_list tr.a:hover td, .wowguild_char_list tr.b:hover td {
+	background-color:#ffffff;
+}
+
+
+.wowguild_char_list tr.lead td {
+	background-color:#c0f0c0;
+}
+
+
+.wowguild_char_list tr.lead:hover td {
+	background-color:#cfffcf;
+}
